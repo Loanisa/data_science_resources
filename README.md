@@ -16,7 +16,7 @@
 📚 Books
 * [Deep Learning with Python](https://github.com/fchollet/deep-learning-with-python-notebooks) by François Chollet, creator of Keras and one of the top dogs at Google
 * [The Data Integration Guide](https://dataintegrationguide.com/) by Ahmed Fessi, all the basic things you need and want to know
-* 
+  
 🫶🏻 Communities
 * [MLOps Community](https://www.linkedin.com/company/mlopscommunity/) by Demetrios Brinkmann
 * [DataTalksClub](https://www.linkedin.com/company/datatalks-club/) by Alexey Grigorev
@@ -27,20 +27,25 @@
 👨🏼‍🤝‍👨🏾 Mentorship & Leadership
 * [SylphAI](https://www.linkedin.com/company/sylphai/) by Li Yin, taking peer exchanges to the next level
 
+Data science in the cloud
+* (GCP Google cloud platform)[https://www.cloudskillsboost.google/catalog?keywords=&locale=&solution%5B%5D=any&role%5B%5D=data-scientist&skill-badge%5B%5D=any&format%5B%5D=any&level%5B%5D=any&duration%5B%5D=any&language%5B%5D=any]
+* [AWS Amazon](https://skillbuilder.aws/exam-prep/machine-learning-specialty)
+* [Microsoft Azure](https://learn.microsoft.com/en-us/credentials/certifications/azure-data-scientist/)
+
 🎯 LinkedIn folks
-* Matthew Sharp, LI's biggest undiscovered gem, sharp and unapologetic takes, will die on a hill for cleancode
-* Reem Mahmoud, PhD 🧪 empathetic data science director, Leader with a capital L
-* Eric Riddoch, ML Platform Lead with all the right ideas
-* Dr. Joy Buolamwini, key voice in AI ethics
-* Snigdha Kakkar, daily ML and LLM quizzes 
-* Chad Sanderson, taking a flamethrower to the world of data, always with great arguments and eloquent writing
-* Matthew Blasa, the Virginia Woolf of data science posts
-* Carly Taylor, M.Sc. Taylor, one of the more original content creators out there, funny, sharp and creative banter
-* Mark Freeman II, Chief Meme Officer of the LinkedIn data community
-* Zach Wilson big dog on the socials (and dog owner), daily learnings on data engineering guaranteed
-* Paolo Perrone, level up your data science knowledge with this one
-* Akmel Syed, is building a free data science community
-* Bojan Tunguz, Ph.D. Tunguz, quadruple Kaggle Grandmaster, social media OG
-* Pascal Biese, shares cutting edge LLM stuff
+* [Matthew Sharp](https://www.linkedin.com/in/matthewsharp/), LI's biggest undiscovered gem, sharp and unapologetic takes, will die on a hill for cleancode
+* [Reem Mahmoud, PhD](https://www.linkedin.com/in/reemmahmoud/) empathetic data science director, Leader with a capital L
+* [Eric Riddoch](https://www.linkedin.com/in/eric-riddoch/), ML Platform Lead with all the right ideas
+* [Dr. Joy Buolamwini](https://www.linkedin.com/in/buolamwini/), key voice in AI ethics
+* [Snigdha Kakkar](https://www.linkedin.com/in/snigdha-kakkar/), daily ML and LLM quizzes 
+* [Chad Sanderson](https://www.linkedin.com/in/chad-sanderson/), taking a flamethrower to the world of data, always with great arguments and eloquent writing
+* [Matthew Blasa](https://www.linkedin.com/in/mblasa/), the Virginia Woolf of data science posts
+* [Carly Taylor](https://www.linkedin.com/in/carly-taylor-data/), M.Sc. Taylor, one of the more original content creators out there, funny, sharp and creative banter
+* [Mark Freeman II](https://www.linkedin.com/in/mafreeman2/), Chief Meme Officer of the LinkedIn data community
+* [Zach Wilson](https://www.linkedin.com/in/eczachly/) big dog on the socials (and dog owner), daily learnings on data engineering guaranteed
+* [Paolo Perrone](https://www.linkedin.com/in/paoloperrone/), level up your data science knowledge with this one
+* [Akmel Syed](https://www.linkedin.com/in/akmel-syed/), is building a free data science community
+* [Bojan Tunguz](https://www.linkedin.com/in/tunguz/), Ph.D. Tunguz, quadruple Kaggle Grandmaster, social media OG
+* [Pascal Biese](https://www.linkedin.com/in/pascalbiese/)https://www.linkedin.com/in/pascalbiese/, shares cutting edge LLM stuff
 
   
