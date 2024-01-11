@@ -14,6 +14,8 @@
 * [The AI dilemma](https://www.youtube.com/watch?v=aSi4d75gFZQ)
 
 📚 Books
+* [An Introduction to Statistical Learning](https://www.statlearning.com/) two books for free, either stats application for Python or R
+* [The Art of Statistics: How to Learn from Data](https://www.goodreads.com/es/book/show/43722897) not for free but recommended by another data science instructor
 * [Deep Learning with Python](https://github.com/fchollet/deep-learning-with-python-notebooks) by François Chollet, creator of Keras and one of the top dogs at Google
 * [The Data Integration Guide](https://dataintegrationguide.com/) by Ahmed Fessi, all the basic things you need and want to know
   
@@ -32,6 +34,14 @@ Data science in the cloud
 * [AWS Amazon](https://skillbuilder.aws/exam-prep/machine-learning-specialty)
 * [Microsoft Azure](https://learn.microsoft.com/en-us/credentials/certifications/azure-data-scientist/)
 
+Python
+* (Introduction to Pandas Pipe)[https://calmcode.io/pandas-pipe/introduction.html]
+* (pygwalker - visualisation)[https://github.com/Kanaries/pygwalker]
+  
+Random
+* (notebook with keyboard shortcuts)[[https://colab.research.google.com/notebooks/editor_shortcuts.ipynb] for fans of keyboard shortcuts
+* (Rehearse your slide show with Speaker Coach)[https://support.microsoft.com/en-gb/office/rehearse-your-slide-show-with-speaker-coach-cd7fc941-5c3b-498c-a225-83ef3f64f07b#ID0EDBP=MacOS]
+  
 🎯 LinkedIn folks
 * [Matthew Sharp](https://www.linkedin.com/in/matthewsharp/), LI's biggest undiscovered gem, sharp and unapologetic takes, will die on a hill for cleancode
 * [Reem Mahmoud, PhD](https://www.linkedin.com/in/reemmahmoud/) empathetic data science director, Leader with a capital L
