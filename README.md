@@ -30,17 +30,17 @@
 * [SylphAI](https://www.linkedin.com/company/sylphai/) by Li Yin, taking peer exchanges to the next level
 
 Data science in the cloud
-* (GCP Google cloud platform)[https://www.cloudskillsboost.google/catalog?keywords=&locale=&solution%5B%5D=any&role%5B%5D=data-scientist&skill-badge%5B%5D=any&format%5B%5D=any&level%5B%5D=any&duration%5B%5D=any&language%5B%5D=any]
+* [GCP Google cloud platform](https://www.cloudskillsboost.google/catalog?keywords=&locale=&solution%5B%5D=any&role%5B%5D=data-scientist&skill-badge%5B%5D=any&format%5B%5D=any&level%5B%5D=any&duration%5B%5D=any&language%5B%5D=any)
 * [AWS Amazon](https://skillbuilder.aws/exam-prep/machine-learning-specialty)
 * [Microsoft Azure](https://learn.microsoft.com/en-us/credentials/certifications/azure-data-scientist/)
 
 Python
-* (Introduction to Pandas Pipe)[https://calmcode.io/pandas-pipe/introduction.html]
-* (pygwalker - visualisation)[https://github.com/Kanaries/pygwalker]
+* [Introduction to Pandas Pipe](https://calmcode.io/pandas-pipe/introduction.html)
+* [pygwalker - visualisation](https://github.com/Kanaries/pygwalker)
   
 Random
-* (notebook with keyboard shortcuts)[[https://colab.research.google.com/notebooks/editor_shortcuts.ipynb] for fans of keyboard shortcuts
-* (Rehearse your slide show with Speaker Coach)[https://support.microsoft.com/en-gb/office/rehearse-your-slide-show-with-speaker-coach-cd7fc941-5c3b-498c-a225-83ef3f64f07b#ID0EDBP=MacOS]
+* [notebook with keyboard shortcuts](https://colab.research.google.com/notebooks/editor_shortcuts.ipynb) for fans of keyboard shortcuts
+* [Rehearse your slide show with Speaker Coach](https://support.microsoft.com/en-gb/office/rehearse-your-slide-show-with-speaker-coach-cd7fc941-5c3b-498c-a225-83ef3f64f07b#ID0EDBP=MacOS)
   
 🎯 LinkedIn folks
 * [Matthew Sharp](https://www.linkedin.com/in/matthewsharp/), LI's biggest undiscovered gem, sharp and unapologetic takes, will die on a hill for cleancode
