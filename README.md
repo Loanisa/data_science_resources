@@ -44,8 +44,8 @@
 
 👩🏻‍🎓 Stats
 * [Khan Academy One sample t-test](https://www.khanacademy.org/math/statistics-probability/significance-tests-one-sample/tests-about-population-mean/v/example-calculating-t-statistic-for-signficance-test)
-
-
+* [DataCamp good refresher](vhttps://www.datacamp.com/tutorial/an-introduction-to-python-t-tests)
+* [Beginners guide to students t-test in python](https://analyticsindiamag.com/a-beginners-guide-to-students-t-test-in-python-from-scratch/)  
 
 
   
