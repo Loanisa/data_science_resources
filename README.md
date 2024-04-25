@@ -41,6 +41,13 @@
 🌪️ Random
 * [notebook with keyboard shortcuts](https://colab.research.google.com/notebooks/editor_shortcuts.ipynb) for fans of keyboard shortcuts
 * [Rehearse your slide show with Speaker Coach](https://support.microsoft.com/en-gb/office/rehearse-your-slide-show-with-speaker-coach-cd7fc941-5c3b-498c-a225-83ef3f64f07b#ID0EDBP=MacOS)
+
+👩🏻‍🎓 Stats
+* [Khan Academy One sample t-test](https://www.khanacademy.org/math/statistics-probability/significance-tests-one-sample/tests-about-population-mean/v/example-calculating-t-statistic-for-signficance-test)
+
+
+
+
   
 🎯 LinkedIn folks
 * [Matthew Sharp](https://www.linkedin.com/in/matthewsharp/), LI's biggest undiscovered gem, sharp and unapologetic takes, will die on a hill for cleancode
