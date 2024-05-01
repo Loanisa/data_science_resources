@@ -37,10 +37,9 @@
 🐍 Python
 * [Introduction to Pandas Pipe](https://calmcode.io/pandas-pipe/introduction.html)
 * [pygwalker - visualisation](https://github.com/Kanaries/pygwalker)
-* [web scraping using beautiful soup]([https://github.com/Kanaries/pygwalker](https://realpython.com/beautiful-soup-web-scraper-python/)
-
-🥸 Additional excerises
-
+* [web scraping using beautiful soup - real python](https://realpython.com/beautiful-soup-web-scraper-python/)
+* [web scraping using beautiful soup - datacamp](https://www.datacamp.com/tutorial/web-scraping-using-python)
+* [web scraping Amazon using beautiful soup - datacamp](https://www.datacamp.com/tutorial/amazon-web-scraping-using-beautifulsoup)
 
 🌪️ Random
 * [notebook with keyboard shortcuts](https://colab.research.google.com/notebooks/editor_shortcuts.ipynb) for fans of keyboard shortcuts
