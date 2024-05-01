@@ -37,7 +37,11 @@
 🐍 Python
 * [Introduction to Pandas Pipe](https://calmcode.io/pandas-pipe/introduction.html)
 * [pygwalker - visualisation](https://github.com/Kanaries/pygwalker)
-  
+* [web scraping using beautiful soup]([https://github.com/Kanaries/pygwalker](https://realpython.com/beautiful-soup-web-scraper-python/)
+
+🥸 Additional excerises
+
+
 🌪️ Random
 * [notebook with keyboard shortcuts](https://colab.research.google.com/notebooks/editor_shortcuts.ipynb) for fans of keyboard shortcuts
 * [Rehearse your slide show with Speaker Coach](https://support.microsoft.com/en-gb/office/rehearse-your-slide-show-with-speaker-coach-cd7fc941-5c3b-498c-a225-83ef3f64f07b#ID0EDBP=MacOS)
@@ -47,8 +51,6 @@
 * [DataCamp good refresher](https://www.datacamp.com/tutorial/an-introduction-to-python-t-tests)
 * [Beginners guide to students t-test in python](https://analyticsindiamag.com/a-beginners-guide-to-students-t-test-in-python-from-scratch/)  
 
-
-  
 🎯 LinkedIn folks
 * [Matthew Sharp](https://www.linkedin.com/in/matthewsharp/), LI's biggest undiscovered gem, sharp and unapologetic takes, will die on a hill for cleancode
 * [Reem Mahmoud, PhD](https://www.linkedin.com/in/reemmahmoud/) empathetic data science director, Leader with a capital L
