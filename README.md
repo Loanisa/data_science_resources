@@ -40,6 +40,7 @@
 * [web scraping using beautiful soup - real python](https://realpython.com/beautiful-soup-web-scraper-python/)
 * [web scraping using beautiful soup - datacamp](https://www.datacamp.com/tutorial/web-scraping-using-python)
 * [web scraping Amazon using beautiful soup - datacamp](https://www.datacamp.com/tutorial/amazon-web-scraping-using-beautifulsoup)
+* [Python API Tutorial](https://www.dataquest.io/blog/python-api-tutorial/)
 
 🌪️ Random
 * [notebook with keyboard shortcuts](https://colab.research.google.com/notebooks/editor_shortcuts.ipynb) for fans of keyboard shortcuts
