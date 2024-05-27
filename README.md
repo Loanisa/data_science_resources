@@ -51,20 +51,6 @@
 * [DataCamp good refresher](https://www.datacamp.com/tutorial/an-introduction-to-python-t-tests)
 * [Beginners guide to students t-test in python](https://analyticsindiamag.com/a-beginners-guide-to-students-t-test-in-python-from-scratch/)  
 
-🎯 LinkedIn folks
-* [Matthew Sharp](https://www.linkedin.com/in/matthewsharp/), LI's biggest undiscovered gem, sharp and unapologetic takes, will die on a hill for cleancode
-* [Reem Mahmoud, PhD](https://www.linkedin.com/in/reemmahmoud/) empathetic data science director, Leader with a capital L
-* [Eric Riddoch](https://www.linkedin.com/in/eric-riddoch/), ML Platform Lead with all the right ideas
-* [Dr. Joy Buolamwini](https://www.linkedin.com/in/buolamwini/), key voice in AI ethics
-* [Snigdha Kakkar](https://www.linkedin.com/in/snigdha-kakkar/), daily ML and LLM quizzes 
-* [Chad Sanderson](https://www.linkedin.com/in/chad-sanderson/), taking a flamethrower to the world of data, always with great arguments and eloquent writing
-* [Matthew Blasa](https://www.linkedin.com/in/mblasa/), the Virginia Woolf of data science posts
-* [Carly Taylor](https://www.linkedin.com/in/carly-taylor-data/), M.Sc. Taylor, one of the more original content creators out there, funny, sharp and creative banter
-* [Mark Freeman II](https://www.linkedin.com/in/mafreeman2/), Chief Meme Officer of the LinkedIn data community
-* [Zach Wilson](https://www.linkedin.com/in/eczachly/) big dog on the socials (and dog owner), daily learnings on data engineering guaranteed
-* [Paolo Perrone](https://www.linkedin.com/in/paoloperrone/), level up your data science knowledge with this one
-* [Akmel Syed](https://www.linkedin.com/in/akmel-syed/), is building a free data science community
-* [Bojan Tunguz](https://www.linkedin.com/in/tunguz/), Ph.D. Tunguz, quadruple Kaggle Grandmaster, social media OG
-* [Pascal Biese](https://www.linkedin.com/in/pascalbiese/)https://www.linkedin.com/in/pascalbiese/, shares cutting edge LLM stuff
+
 
   
