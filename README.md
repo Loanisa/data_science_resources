@@ -5,6 +5,7 @@
 * [CalmCode](https://www.linkedin.com/company/calmcode/) by Vincent Warmerdam, a treasure trove of clear and concise coding videos: includes some best practices you won’t easily find anywhere else
 * [Made With ML](https://www.linkedin.com/company/madewithml/) by Goku Mohandas, level up by combining machine learning software engineering
 * [DataCamp](https://www.datacamp.com/)
+* [Open Source Models with Hugging Face](https://www.deeplearning.ai/short-courses/open-source-models-hugging-face/)
 
 🎧 Podcasts
 * [Your undivided attention](https://www.humanetech.com/podcast)
