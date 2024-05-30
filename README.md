@@ -51,6 +51,11 @@
 * [DataCamp good refresher](https://www.datacamp.com/tutorial/an-introduction-to-python-t-tests)
 * [Beginners guide to students t-test in python](https://analyticsindiamag.com/a-beginners-guide-to-students-t-test-in-python-from-scratch/)  
 
-
+🦾 Excersices to inmprove your python skills (colab)
+* [Practise functions: Get the fruits prices](https://drive.google.com/file/d/1XEmNuDcr83HofAaBy6RRuK8FGzQafpvt/view?usp=sharing)
+* [Practise functions: Get the flight data](https://drive.google.com/file/d/1nXE6i-NRG9GMI8MJLPn0q8uF551PgQVr/view?usp=sharing)
+* [Practise error debugging](https://drive.google.com/file/d/1FBnsRxQQTQqO2xcLlmmu71NnB5bDGJqF/view?usp=sharing)
+* [Practise pandas groupby](https://drive.google.com/file/d/1YERVpPR9RFS7wgy_OO091GU5tVRYUPbG/view?usp=sharing)
+* [Practise pandas sorting and filtering](https://drive.google.com/file/d/1mr-tgpyQ4hJMbtfPSA71Qv75z69IqQqL/view?usp=sharing)
 
   
