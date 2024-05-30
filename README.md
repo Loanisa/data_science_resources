@@ -57,5 +57,6 @@
 * [Practise error debugging](https://drive.google.com/file/d/1FBnsRxQQTQqO2xcLlmmu71NnB5bDGJqF/view?usp=sharing)
 * [Practise pandas groupby](https://drive.google.com/file/d/1YERVpPR9RFS7wgy_OO091GU5tVRYUPbG/view?usp=sharing)
 * [Practise pandas sorting and filtering](https://drive.google.com/file/d/1mr-tgpyQ4hJMbtfPSA71Qv75z69IqQqL/view?usp=sharing)
+* [Practise functions: diverse challenges](https://drive.google.com/file/d/1zC-fCcAUQQLth8OESIsB5OX73sPmcWKa/view?usp=drive_link)
 
   
