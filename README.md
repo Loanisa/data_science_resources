@@ -43,8 +43,9 @@
 * [web scraping Amazon using beautiful soup - datacamp](https://www.datacamp.com/tutorial/amazon-web-scraping-using-beautifulsoup)
 * [Python API Tutorial](https://www.dataquest.io/blog/python-api-tutorial/)
 
-SQL
+💀SQL
 * [Window functions](https://www.youtube.com/watch?v=Ww71knvhQ-s)
+* [SQL joins](https://www.youtube.com/watch?v=0OQJDd3QqQM&list=PLavw5C92dz9FD9XspliRM_HZM_jK7tkii)
   
 🌪️ Random
 * [notebook with keyboard shortcuts](https://colab.research.google.com/notebooks/editor_shortcuts.ipynb) for fans of keyboard shortcuts
