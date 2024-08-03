@@ -43,6 +43,9 @@
 * [web scraping Amazon using beautiful soup - datacamp](https://www.datacamp.com/tutorial/amazon-web-scraping-using-beautifulsoup)
 * [Python API Tutorial](https://www.dataquest.io/blog/python-api-tutorial/)
 
+SQL
+* [Window functions](https://www.youtube.com/watch?v=Ww71knvhQ-s)
+  
 🌪️ Random
 * [notebook with keyboard shortcuts](https://colab.research.google.com/notebooks/editor_shortcuts.ipynb) for fans of keyboard shortcuts
 * [Rehearse your slide show with Speaker Coach](https://support.microsoft.com/en-gb/office/rehearse-your-slide-show-with-speaker-coach-cd7fc941-5c3b-498c-a225-83ef3f64f07b#ID0EDBP=MacOS)
