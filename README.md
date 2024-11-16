@@ -42,6 +42,7 @@
 * [web scraping using beautiful soup - datacamp](https://www.datacamp.com/tutorial/web-scraping-using-python)
 * [web scraping Amazon using beautiful soup - datacamp](https://www.datacamp.com/tutorial/amazon-web-scraping-using-beautifulsoup)
 * [Python API Tutorial](https://www.dataquest.io/blog/python-api-tutorial/)
+* [Visualisation with Seaborn](https://realpython.com/python-seaborn/)
 
 💀SQL
 * [Window functions](https://www.youtube.com/watch?v=Ww71knvhQ-s)
