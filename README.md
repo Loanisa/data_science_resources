@@ -65,4 +65,6 @@
 * [Practise pandas sorting and filtering](https://drive.google.com/file/d/1mr-tgpyQ4hJMbtfPSA71Qv75z69IqQqL/view?usp=sharing)
 * [Practise functions: diverse challenges](https://drive.google.com/file/d/1zC-fCcAUQQLth8OESIsB5OX73sPmcWKa/view?usp=drive_link)
 
+Other resources with more resources
+* [more more more](https://github.com/EdictaMG/Data_Science_Resources?tab=readme-ov-file#data-sets)
   
